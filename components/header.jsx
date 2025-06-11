@@ -29,10 +29,10 @@ const Header = async () => {
               Features
             </a>
             <a
-              href="#testimonials"
+              href="#workflow"
               className="text-gray-600 hover:text-blue-600"
             >
-              Testimonials
+              Workflow
             </a>
           </SignedOut>
         </div>
